@@ -52,7 +52,7 @@ function MainStackNavigator() {
         ),
 
         headerTitleStyle: {
-          fontFamily: "Futura",
+          // fontFamily: "Futura",
         },
         headerTintColor: "#ffffff",
 
