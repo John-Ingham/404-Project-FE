@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
     fontWeight: "500",
     flex: 1 / 2,
     // fontFamily: "Futura",
-    fontFamily: Platform.OS === 'ios' ? 'Futura' : 'Roboto',
+    //fontFamily: Platform.OS === 'ios' ? 'Futura' : 'Roboto',
     color: "white",
   },
   logo: {
